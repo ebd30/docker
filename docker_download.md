@@ -49,7 +49,7 @@ docker download:
     $sudo docker run test-test 
 
 docker compose install:
-  https://docs.docker.com/compose/install(link) <- please refer to the following url
+  https://docs.docker.com/compose/install <- please refer to the following url
   
   download the command executable file:
     
